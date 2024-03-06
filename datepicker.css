@@ -1,0 +1,19 @@
+td#OtherMonth {
+    background: rgb(228, 185, 104); 
+}
+
+td#CurMonth {
+   background: rgb(97, 97, 238);
+   cursor: pointer;
+}
+
+#LeftArrow, #RightArrow{
+   cursor: pointer;
+}
+
+table, th, td {
+   border: 1px solid black;
+   text-align: center;
+   background: rgb(136, 223, 136);    
+   cursor: default;
+}
